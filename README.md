@@ -1,29 +1,53 @@
 # Phishing-Attack-Simulation-with-Gophish
 
-<h2>Utilities Used</h2>
+<h2>Utilities and Languages Used</h2>
 
-- <b>Honeypot Security: Cowrie (for capturing and logging unauthorized SSH/Telnet access attempts)</b> 
+- <b>Gophish: Phishing simulation tool</b> 
 
-- <b>Log Management & Visualization: ELK Stack (for processing, indexing, and analyzing honeypot logs)</b>
+- <b>Railway: Platform for deploying and hosting Gophish</b>
   
-- <b>Scripting Languages: Python – Used for running Cowrie and processing logs.
-Bash/Shell Scripting – For configuring and managing the Linux-based honeypot system.)</b>
+- <b>GitHub: Code repository platform used to fork and store the Gophish code</b>
   
-- <b>Threat Intelligence: Kibana (for visualizing attack patterns, failed logins, and malicious activity)</b>
+- <b>Docker: Used to containerize the Gophish application for easier deployment</b>
   
-- <b>Virtualization: UTM (for creating isolated lab environments)</b>
+- <b>Git: Version control system for tracking changes and deploying updates</b>
 
-- <b>Operating System: Kali Linux (for hosting the honeypot and performing security analysis)</b> 
+- <b>JSON: Configuration format for Gophish settings.</b>
 
-<h2>Environments Used </h2>
+- <b>CLI/Terminal: Command line interface for interacting with your code and services</b>
 
-- <b>UTM</b> 
-  
-- <b>Kali Linux</b> 
-  
-- <b>Cowrie</b> 
-  
-- <b>Wireshark & tcpdump</b> 
-  
-- <b>ELK Stack</b> 
+- <b>Web Browser: For accessing deployed Gophish and Railway dashboards</b> 
+
+
+ <h2>Program Walkthrough</h2>
  
+- <h2>Prerequisites:</h2>
+  
+  <b>- GitHub account</b>
+  
+  <b>- Railway account</b>
+  
+  <b>- Basic understanding of phishing simulations and security awareness</b>
+
+  - <h2>Step 1: Fork the Gophish Repository</h2>
+
+
+   - <h2>Step 2: Edit the config.json File</h2>
+
+    - <h2>Step 1: Fork the Gophish Repository</h2>
+
+
+   - <h2>Step 1: Fork the Gophish Repository</h2>
+
+
+    - <h2>Step 1: Fork the Gophish Repository</h2>
+  
+
+   - <h2>Step 1: Fork the Gophish Repository</h2>
+
+
+    - <h2>Step 1: Fork the Gophish Repository</h2>
+
+
+
+     - <h2>Step 1: Fork the Gophish Repository</h2>
